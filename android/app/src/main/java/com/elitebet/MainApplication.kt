@@ -1,4 +1,4 @@
-package com.elitebet
+package com.elite.bet.ai
 
 import android.app.Application
 import com.facebook.react.PackageList
